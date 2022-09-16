@@ -60,7 +60,7 @@ span {
 h1, h2, h3, h4, h5, h6 {
   color: rgba(0, 0, 0, 0.8);
   font-family: "Playfair Display", Georgia, serif;
-  margin: 0 0 30px 0; }
+  margin: 0 0 10px 0; }
 
 ::-webkit-selection {
   color: #fcfcfc;
@@ -381,7 +381,7 @@ header {
       height: 1px; }
 
 .about-desc {
-  padding-top: 3em; }
+  padding-top: 0em; }
   .about-desc h2 {
     line-height: 1.3; }
     .about-desc h2 span {
@@ -391,7 +391,7 @@ header {
       font-size: 50px;
       font-family: "Playfair Display", Georgia, serif; }
   .about-desc .desc {
-    padding-left: 6em;
+    padding-left: 3em;
     position: relative; }
   .about-desc .rotate {
     position: absolute;
@@ -1273,7 +1273,7 @@ input[type="text"] {
     color: #000;
     letter-spacing: 1px;
     font-weight: 300;
-    margin-bottom: 2em; }
+    margin-bottom: 0em; }
   #footer p:last-child {
     margin-bottom: 0; }
   #footer p.colorlib-social-icons a:hover, #footer p.colorlib-social-icons a:focus {
