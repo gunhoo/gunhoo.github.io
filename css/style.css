@@ -32,7 +32,7 @@ body {
     width: 100%;
     height: 100%;
     overflow-y: hidden; }
-
+/*
 a {
   color: #CA82F8;
   -webkit-transition: 0.5s;
@@ -43,7 +43,7 @@ a {
     color: #CA82F8; }
   a:focus, a:active {
     outline: none; }
-
+*//
 p, span {
   margin-bottom: 1.5em;
   font-weight: 400;
