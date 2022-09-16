@@ -327,7 +327,8 @@ header {
         outline: none;
         text-decoration: none; }
 
-#colorlib-services,
+#colorlib-skills,
+#colorlib-education,
 #colorlib-contact,
 #colorlib-work,
 #colorlib-blog,
@@ -339,7 +340,8 @@ header {
   clear: both;
   position: relative; }
   @media screen and (max-width: 768px) {
-    #colorlib-services,
+    #colorlib-skills,
+    #colorlib-education,
     #colorlib-contact,
     #colorlib-work,
     #colorlib-blog,
